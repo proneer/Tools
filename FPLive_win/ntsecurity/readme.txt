@@ -1,5 +1,5 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#ntsecurity
+# ntsecurity
 	gplist, http://www.ntsecurity.nu/toolbox/gplist/
 	promiscdetect, http://www.ntsecurity.nu/toolbox/promiscdetect/

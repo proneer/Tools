@@ -1,4 +1,4 @@
-# You have to download in this folder. 
+# You have to download following tool in this folder.
 
-#hbgary
+# hbgary
 	fdpro, http://www.hbgary.com/free_tools

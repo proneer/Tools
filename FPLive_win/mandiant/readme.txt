@@ -1,4 +1,4 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#mandiant
+# mandiant
 	memorize, https://www.mandiant.com/resources/download/memoryze

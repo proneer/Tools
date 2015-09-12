@@ -1,6 +1,6 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#sysinternals
+# sysinternals
 	autorunsc, http://technet.microsoft.com/ko-KR/sysinternals/bb963902.aspx
 	handle, http://technet.microsoft.com/en-us/sysinternals/bb896655.aspx
 	listdlls, http://technet.microsoft.com/en-us/sysinternals/bb896656.aspx

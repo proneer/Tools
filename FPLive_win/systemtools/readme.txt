@@ -1,4 +1,4 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#systemtools
+# systemtools
 	netusers, http://www.systemtools.com/cgi-bin/download.pl?NetUsers

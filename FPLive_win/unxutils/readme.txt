@@ -1,5 +1,5 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#unxutils
+# unxutils
 	mkdir, http://unxutils.sourceforge.net/
 	pclip, http://unxutils.sourceforge.net/

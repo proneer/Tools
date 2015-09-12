@@ -1,6 +1,6 @@
-# You have to download in this folder.
+# You have to download following tool in this folder.
 
-#nirsoft
+# nirsoft
 	bulletspassview, http://www.nirsoft.net/utils/bullets_password_view.html
 	cport, http://www.nirsoft.net/utils/cports.html
 	cprocess, http://www.nirsoft.net/utils/cprocess.html
